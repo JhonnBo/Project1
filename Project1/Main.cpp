@@ -7,8 +7,6 @@ void F2(){}
 
 void F3(){}
 
-void F4(){}
-
 int main()
 {
 
